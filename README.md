@@ -35,3 +35,10 @@ Ensure Necessary configuration has been set for the Vuforia (e.g license key)
     - `Vuforiascene`
 2. Set your desired build platform (e.g., Android or iOS).
 3. Click **Build** to generate your application.
+
+
+
+### Images
+![IMG_6060](https://github.com/user-attachments/assets/6c023ace-2d57-4a74-a53d-3e1d4a1f9e0e)
+![IMG_6062](https://github.com/user-attachments/assets/e76e5474-2286-4610-8cfd-f57cf1c864c2)
+![IMG_6064](https://github.com/user-attachments/assets/7f758cf5-4ebc-4da1-aa4a-51679c36da60)
